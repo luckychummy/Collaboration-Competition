@@ -13,7 +13,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 Follow the instructions below to explore the environment on your own machine!
 
 Step 1: Activate the Environment
-If you haven't already, please follow the instructions in the DRLND GitHub repository to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+If you haven't already, please follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
 Step 2: Download the Unity Environment
 For this project, you will not need to install Unity - you can download it from one of the links below. You need only select the environment that matches your operating system:
@@ -21,3 +21,6 @@ Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/T
 Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
 Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
+
+Step 3: Steps to run
+Get the Tennis environment checked into the folder same as the Tennis.ipynb file. Once downloaded, run the python notebook to train both the agents
